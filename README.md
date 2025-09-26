@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey,i'm Gideon Buzor.I'm an aspiring blockchain developer passionate about solidity,De-Fi and Testnets.
+I,m currently learning:
+-solidity & smart contract security.
+-airdrop & Testnet interactions.
+-Defi protocols (Flash loans,staking).
 
-<!--
-**Gideon-101/Gideon-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My goal:
+To build scalable DApps, make web3 safe and contribute to open resources.
 
-Here are some ideas to get you started:
+connect with me:
+X(twitter):https://x.com/gideonbuzor
+email: gideonbuzor123@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
