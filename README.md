@@ -7,6 +7,9 @@ Defi protocols (Flash loans,staking).
 My goal:
 To build scalable DApps, make web3 safe and contribute to open resources.
 
+I,m open for real connection.
+
+
 connect with me:
 X(twitter):https://x.com/gideonbuzor
 email: gideonbuzor123@gmail.com
