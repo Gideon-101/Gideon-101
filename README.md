@@ -14,4 +14,6 @@ connect with me:
 X(twitter):https://x.com/gideonbuzor
 email: gideonbuzor123@gmail.com
 
+Do not hesitate to connect when you come across my handle.
+
 
