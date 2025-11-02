@@ -1,4 +1,4 @@
-## Hey,i'm Gideon Buzor.I'm an aspiring blockchain developer passionate about solidity,De-Fi and Testnets.
+## Hey,i'm Gideon Buzor.I'm an aspiring blockchain developer passionate about solidity,De-Fi and Testnets...
 I,m currently learning:
 solidity & smart contract development,
 airdrop & Testnet interactions,
